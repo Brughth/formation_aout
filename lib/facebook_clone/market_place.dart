@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:formation_aout/menu_model.dart';
-import 'package:formation_aout/widgets/app_icon.dart';
+import 'package:formation_aout/facebook_clone/menu_model.dart';
+import 'package:formation_aout/facebook_clone/widgets/app_icon.dart';
 
 class MarketPlace extends StatefulWidget {
   MarketPlace({Key? key}) : super(key: key);

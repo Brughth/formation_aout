@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:formation_aout/widgets/app_icon.dart';
-import 'package:formation_aout/widgets/shortcut_widget.dart';
+import 'package:formation_aout/facebook_clone/widgets/app_icon.dart';
+import 'package:formation_aout/facebook_clone/widgets/shortcut_widget.dart';
 
 class UserMenuPage extends StatefulWidget {
   UserMenuPage({Key? key}) : super(key: key);
